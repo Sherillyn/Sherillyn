@@ -4,7 +4,7 @@
 
 - 🔭 Hoje trabalho como Analista de Documentação
 - 🌱 Estou estudando e em processo de migração para Tech Writer
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/Sherillyn">
