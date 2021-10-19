@@ -1,11 +1,5 @@
 ## Olá, eu sou a Sherillyn
 
-
-
-- 🔭 Hoje trabalho como Analista de Documentação
-- 🌱 Estou estudando e em processo de migração para Tech Writer
-- 😄 Pronomes: ela/dela
-
 <div align="center">
   <a href="https://github.com/Sherillyn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sherillyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
